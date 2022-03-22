@@ -1,0 +1,2 @@
+const blacklisted = ['c u n t', './testprofanity', 'w h o r e', 'b i t c h', 'd i c k', 'cunt', 'whore', 'bitch', 'dick', 'penis', 'p e n i s', 'pussy', 'p u s s y', 'slut', 's l u t', 's e x'];
+module.exports = blacklisted
